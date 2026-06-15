@@ -1,6 +1,6 @@
 [tools]
 lefthook = "2.1.9"
-oxfmt = "0.53.0"
+oxfmt = "0.55.0"
 zizmor = "1.25.2"
 
 [hooks]
