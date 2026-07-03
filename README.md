@@ -17,6 +17,7 @@ brew install --cask home-operations/tap/<cask>
 
 ## Available casks
 
-| Cask                      | Repo                                                              |
-| ------------------------- | ----------------------------------------------------------------- |
-| [`flate`](Casks/flate.rb) | [home-operations/flate](https://github.com/home-operations/flate) |
+| Cask                        | Repo                                                                |
+| --------------------------- | ------------------------------------------------------------------- |
+| [`flate`](Casks/flate.rb)   | [home-operations/flate](https://github.com/home-operations/flate)   |
+| [`kopiur`](Casks/kopiur.rb) | [home-operations/kopiur](https://github.com/home-operations/kopiur) |
