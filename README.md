@@ -17,8 +17,9 @@ brew install --cask home-operations/tap/<cask>
 
 ## Available casks
 
-| Cask                        | Repo                                                                |
-| --------------------------- | ------------------------------------------------------------------- |
-| [`chaski`](Casks/chaski.rb) | [home-operations/chaski](https://github.com/home-operations/chaski) |
-| [`flate`](Casks/flate.rb)   | [home-operations/flate](https://github.com/home-operations/flate)   |
-| [`kopiur`](Casks/kopiur.rb) | [home-operations/kopiur](https://github.com/home-operations/kopiur) |
+| Cask                            | Repo                                                                    |
+| ------------------------------- | ----------------------------------------------------------------------- |
+| [`chaski`](Casks/chaski.rb)     | [home-operations/chaski](https://github.com/home-operations/chaski)     |
+| [`flate`](Casks/flate.rb)       | [home-operations/flate](https://github.com/home-operations/flate)       |
+| [`kopiur`](Casks/kopiur.rb)     | [home-operations/kopiur](https://github.com/home-operations/kopiur)     |
+| [`yayamlls`](Casks/yayamlls.rb) | [home-operations/yayamlls](https://github.com/home-operations/yayamlls) |
