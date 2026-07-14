@@ -1,7 +1,7 @@
 [tools]
 lefthook = "2.1.10"
 oxfmt = "0.59.0"
-zizmor = "1.26.1"
+zizmor = "1.27.0"
 
 [hooks]
 postinstall = "lefthook install"
