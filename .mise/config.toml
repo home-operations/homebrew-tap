@@ -1,6 +1,6 @@
 [tools]
 actionlint = "1.7.12"
-lefthook = "2.1.10"
+lefthook = "2.1.11"
 oxfmt = "0.64.0"
 zizmor = "1.29.0"
 
